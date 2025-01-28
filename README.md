@@ -5,6 +5,26 @@
 
 # Práctica 1 - Configuración de máquina virtual en el IaaS
 
+## Trabajo previo (Cursos de GitHub Skills)
+
+### Introduction to GitHub
+
+Se ha realizado el curso de instroducción a GitHub, en el cual se ha msotrado sobretodo a crear ramas de versiones.
+
+<img> ![Captura acerca de la creación de la rama](./img/rama.png) </img>
+
+Seguidamente se ha seguido el tutorial de GitHub Actions. Se ha creado un archivo `workflow` en el cual se ha añadido una serie de tareas.
+
+<img> ![Captura acerca de la creación del workflow](./img/workflow.png) </img>
+
+A continuación se observa el resultado del workflow, el que se pueden ver los diferentes trabajos que se han realizado. Por ejemplo, se ha realizado un listado de los archivos que están en el directorio.
+
+<img> ![Captura acerca del resultado del worflow](./img/listado_workflow.png) </img>
+
+### Communication using Markdown
+
+
+
 Primero se debe de acceder al _IAAS_  e introducir las credenciales ULL.
 Encender la máquina virtual y abrir la propia consola una vez esté encendida.
 
