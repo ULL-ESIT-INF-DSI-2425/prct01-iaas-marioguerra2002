@@ -36,6 +36,7 @@ Al final se usan comentarios para añadir "tips" para los demás usuarios (es el
 En este curso se ha aprendido a utilizar GitHub Pages, una herramienta que permite la creación de sitios web.
 Se configura el directorio de GitHub para que se muestre en una página web.
 <img> ![Captura de la publicación de la página web](./img/pages.png) </img>
+
 Primero se debe de acceder al _IAAS_  e introducir las credenciales ULL.
 Encender la máquina virtual y abrir la propia consola una vez esté encendida.
 
