@@ -1,4 +1,19 @@
+
+title: "Práctica 1 DSI"
+author: "Mario Guerra Pérez alu0101395036@ull.edu.es"
+description: "Primera practica de la asignatura Desarrollo de Sistemas Informáticos"
+
+# Tema a usar
 remote_theme: pages-themes/timemachine@v0.2.0
 
+# Plugins requeridos para que funcione el tema remoto
 plugins:
   - jekyll-remote-theme
+
+# Opciones adicionales
+show_excerpts: true # Muestra extractos en la página principal
+markdown: kramdown  # Motor de renderizado Markdown
+
+# Datos opcionales
+github:
+  is_project_page: false
