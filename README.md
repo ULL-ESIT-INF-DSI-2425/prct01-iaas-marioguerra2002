@@ -88,6 +88,7 @@ sudo vi /etc/hosts
 cat /etc/hosts
 ````  
 Al final lo que se pretende es añadir la IP de la máquina virtual y el nombre que se le ha dado a la máquina virtual.
+
 <img> ![Captura de la adición de la máquina virtual a local](./img/hosts.png) </img>
 
 ### Configuración de la infraestructura de clave pública-privada
@@ -102,6 +103,7 @@ ssh-copy-id usuario@iaas-dsi
 Ahora al acceder a la máquina virtual no se pide la contraseña.
 
 Cabe destacar que tambien se puede modificar el nombre de usuario en el fichero `sshd_config` modificando el propio fichero.
+
 <img> ![Captura de la modificación del fichero sshd_config](./img/cambio_nombre.png) </img>
 
 ## Instalación de git y Node.js
